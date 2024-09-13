@@ -115,19 +115,26 @@ Activity_Main.XML:
 ```
 # OUTPUT:
 OnCreate Executed:
-![image](https://github.com/user-attachments/assets/f474cd57-1161-41d1-b34d-3d0892a1c430)
+
+![image](https://github.com/user-attachments/assets/cc7b499d-e13b-4b39-a392-9b13c0b18c45)
 
 
 OnPause Executed:
-![image](https://github.com/user-attachments/assets/8f4324f1-9362-49e1-ab56-0590270bb626)
+
+![image](https://github.com/user-attachments/assets/d2c9b511-035a-4c95-9402-accd6bcb1d48)
+
 
 OnResume Executed:
-![image](https://github.com/user-attachments/assets/bf65375d-a00d-460d-bb8b-b3b5633a5512)
+
+![image](https://github.com/user-attachments/assets/5ce61826-008b-4ee5-b307-99fe082ee68e)
+
 
 OnRestart Executed:
+
 ![image](https://github.com/user-attachments/assets/74bd7715-11c9-4f07-bb22-532cb094ef6b)
 
 OnStart Executed:
+
 ![image](https://github.com/user-attachments/assets/23317fdf-981e-43de-9497-30a0b62e2c60)
 
 RESULT:
