@@ -119,17 +119,16 @@ OnCreate Executed:
 
 
 OnPause Executed:
-![image](https://github.com/user-attachments/assets/addc9307-117f-420c-ab6f-fcea7a37d5a2)
+![image](https://github.com/user-attachments/assets/8f4324f1-9362-49e1-ab56-0590270bb626)
 
 OnResume Executed:
 ![image](https://github.com/user-attachments/assets/bf65375d-a00d-460d-bb8b-b3b5633a5512)
 
 OnRestart Executed:
-![image](https://github.com/user-attachments/assets/874d0a5c-bdef-4dd2-8707-a59b180b579c)
-
+![image](https://github.com/user-attachments/assets/74bd7715-11c9-4f07-bb22-532cb094ef6b)
 
 OnStart Executed:
-![image](https://github.com/user-attachments/assets/12bde784-d4aa-41ba-8165-749164fd9361)
+![image](https://github.com/user-attachments/assets/23317fdf-981e-43de-9497-30a0b62e2c60)
 
 RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
