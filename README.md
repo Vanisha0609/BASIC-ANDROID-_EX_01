@@ -116,7 +116,7 @@ Activity_Main.XML:
 # OUTPUT:
 OnCreate Executed:
 
-![image](https://github.com/user-attachments/assets/cc7b499d-e13b-4b39-a392-9b13c0b18c45)
+![image](https://github.com/user-attachments/assets/cc7b499d-e13b-4b39-a392-9b13c0b18c45 width="200" height="400" )
 
 
 OnPause Executed:
@@ -137,5 +137,5 @@ OnStart Executed:
 
 ![image](https://github.com/user-attachments/assets/23317fdf-981e-43de-9497-30a0b62e2c60)
 
-RESULT:
+# RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
