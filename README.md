@@ -116,7 +116,7 @@ Activity_Main.XML:
 # OUTPUT:
 OnCreate Executed:
 
-![image](https://github.com/user-attachments/assets/cc7b499d-e13b-4b39-a392-9b13c0b18c45 width="200" height="400" )
+![image](https://github.com/user-attachments/assets/cc7b499d-e13b-4b39-a392-9b13c0b18c45 )
 
 
 OnPause Executed:
