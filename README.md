@@ -115,49 +115,37 @@ Activity_Main.XML:
 ```
 # OUTPUT:
 OnCreate Executed:
-&emsp;
-
+&ensp;
 
 <img src="https://github.com/user-attachments/assets/cc7b499d-e13b-4b39-a392-9b13c0b18c45" width="250" height="500">
 
-
-&emsp;
-
+&ensp;
 
 OnPause Executed:
 
-
-&emsp;
+&ensp;
 
 <img src="https://github.com/user-attachments/assets/d2c9b511-035a-4c95-9402-accd6bcb1d48" width="250" height="500">
 
-
-&emsp;
-
+&ensp;
 
 OnResume Executed:
 
-
-&emsp;
+&ensp;
 
 <img src="https://github.com/user-attachments/assets/5ce61826-008b-4ee5-b307-99fe082ee68e" width="250" height="500">
 
-&emsp;
-
+&ensp;
 
 OnRestart Executed:
 
-
-&emsp;
+&ensp;
 <img src="https://github.com/user-attachments/assets/74bd7715-11c9-4f07-bb22-532cb094ef6b" width="250" height="500">
 
-&emsp;
-
+&ensp;
 
 OnStart Executed:
-
-&emsp;
-
+&ensp;
 
 <img src="https://github.com/user-attachments/assets/23317fdf-981e-43de-9497-30a0b62e2c60" width="250" height="500">
 
